@@ -1,2 +1,5 @@
 # hello-github
-github api demo
+
+- add sync file demo(create or update)
+- add delete file demo
+- init project

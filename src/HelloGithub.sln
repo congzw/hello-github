@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGithub", "HelloGithub\HelloGithub.csproj", "{15CB7B7A-252D-4460-88F6-F4C769D263EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2293D8E-18BF-4EC8-B561-E7BA47F2E045}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CB7B7A-252D-4460-88F6-F4C769D263EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CB7B7A-252D-4460-88F6-F4C769D263EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CB7B7A-252D-4460-88F6-F4C769D263EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CB7B7A-252D-4460-88F6-F4C769D263EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {347CB8BB-1190-4569-8586-2E7D7234332D}
+	EndGlobalSection
+EndGlobal
