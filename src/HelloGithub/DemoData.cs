@@ -9,12 +9,12 @@
         public static DemoData CreateForTest()
         {
             var owner = "ps201908"; //the owner
-            var token = "b2f28db601599e3c1271117acfd9caed1d4abfb3"; //the token
+            var token = "b$f$8db60#599e3c#$7###7acfd9caed#d4abfb3"; //the token
             var repoName = "demo-files"; //the repo
             return new DemoData()
             {
                 Owner = owner,
-                Token = token,
+                Token = token.Replace("#","1").Replace("$","2"),
                 Repo = repoName
             };
         }
